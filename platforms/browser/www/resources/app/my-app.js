@@ -83,7 +83,7 @@ function onPlusReady(){
 
     //setupPush();
 
-    //asdas
+    
 
 }
 
