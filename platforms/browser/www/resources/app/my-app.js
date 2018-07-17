@@ -83,10 +83,6 @@ function onPlusReady(){
 
     //setupPush();
 
-
-
-
-
 }
 
 function setupPush(){
