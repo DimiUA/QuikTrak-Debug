@@ -82,6 +82,9 @@ function onPlusReady(){
     document.addEventListener("pause", onAppPause, false);
 
     //setupPush();
+
+
+    //asdasd
 }
 
 function setupPush(){
