@@ -83,8 +83,6 @@ function onPlusReady(){
 
     //setupPush();
 
-
-    //asdasd
 }
 
 function setupPush(){
